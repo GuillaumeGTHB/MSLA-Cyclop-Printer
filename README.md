@@ -1,4 +1,4 @@
-# WORK IN PROGRESS !!!
+# WORK IN PROGRESS !!! (29/08/24)
 ## Introduction
 Here you will find all the files on my home resin printer (and its Helios curing station) ! <br />
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
@@ -19,9 +19,10 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 
 ## Technical details of the Helios Curing station <br />
 + Approximate power: 15W <br />
-+ Turntable plate <br />
++ Turntable plate with adjustable timer <br />
 + Upward airflow (two 3010 fans: 30x10mm) <br />
 + Minimum power supply: 12V 2A <br />
++ → more details in the .pdf guide <br />
 <img src="https://github.com/user-attachments/assets/a8a1f55d-ca56-4a80-a876-c9ba78984eb0" height="200">
 <img src="https://github.com/user-attachments/assets/0387f0f3-5e7a-4226-9eaa-10f27f64a06d" height="200">
 <img src="https://github.com/user-attachments/assets/8142ecc2-d189-49be-bcdb-65848cd4500d" height="200">
