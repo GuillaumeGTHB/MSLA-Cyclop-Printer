@@ -5,12 +5,12 @@ If you like my work, you can help me by buying me a coffee, thank you! [paypal.m
 + **NanoDLP is too huge for this repertory, you can download it at : https://www.nano3dtech.com/nanodlp-download/** <br />
 
 **1. Introduction** <br />
-**2. Technical details of the MSLA Cyclop v1.3 printer** <br />
+**2. Technical details of the MSLA Cyclop printer** <br />
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
 **5. Schematics**
-- A. Cyclop v1.3
-- B. Helios
+- A. Cyclop - 3D Printer
+- B. Helios - Curing Station
 
 # MSLA Cyclop Printer !
 <p align="center">
@@ -30,7 +30,7 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 <img src="https://github.com/user-attachments/assets/9b24b785-bc67-4cf2-a9b0-55bd476916e7" height="200"> <br />
 </p>
 
-## 2. Technical details of the MSLA Cyclop v1.3 printer <br />
+## 2. Technical details of the MSLA Cyclop printer <br />
 + Standalone printer (integrated slicer, just place an .stl file on a USB key) with Nextion 3.2" touch screen
 + Ultra-rigid structure in 2020 aluminum profiles
 + Ultra resolution axis ! Ball screw and two linear ball axes MGN12C
@@ -75,7 +75,7 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 </p>
 
 ## 5. Schematics
-### A. Cyclop v1.3
+### A. Cyclop
 <p align="center">
 <img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="500">
 </p>
