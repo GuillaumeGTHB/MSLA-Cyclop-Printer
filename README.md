@@ -1,31 +1,31 @@
 # WORK IN PROGRESS !!!
 # Introduction
-Vous trouverez ici tous les fichiers sur mon imprimante résine maison (et sa station de curing) !<br />
-Les fichiers CAO (format .step) sont disponibles, le firmware GRBl adéquat ainsi que la version NanoDLP que j'ai utilisé.<br />
-**Un guide au format .pdf (langue anglaise, 64 pages pour la version 1.1) est inclus, il est à lire absolument, tout y expliqué en détail !** <br />
-# Détails techniques de l'imprimante MSLA Cyclop v1.3
-+ Electronique : Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + driver A4988 (firmware NanoDLP pour le RPI3B+, GRBL pour l'Arduino)<br />
-+ Ecran : 2k, 5,5" 1440p x 2560p <br />
-+ Résolution : 47,25µm (0,04725mm) <br />
-+ Zone imprimable : 125x67x165mm <br />
-+ Puissance UV : 38W (réglable en PWM avec la commande M3 S1to1000) <br />
-+ Prix approximatif : 450$ <br />
-+ Alimentation : 12V 8A <br />
-+ → plus de détail dans le guide .pdf <br />
+Here you will find all the files on my home resin printer (and its Helios curing station)! <br />
+The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
+**A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail!** <br />
+# Technical details of the MSLA Cyclop v1.3 printer
++ Electronics: Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + A4988 driver (NanoDLP firmware for the RPI3B+, GRBL for the Arduino)<br />
++ Screen: 2k, 5.5" 1440p x 2560p <br />
++ Resolution: 47.25µm (0.04725mm) <br />
++ Printable area: 125x67x165mm <br />
++ UV power: 38W (adjustable in PWM with the M3 S1to1000 command) <br />
++ Approximate price: $450 <br />
++ Power supply: 12V 8A <br />
++ → more details in the .pdf guide <br />
 
-# Détails techniques de la station de Curing Helios 
-*Puissance approximative : 15W
-*Plateau tournant
-*Flux d'air ascendant (deux ventilateurs 3010 : 30x10mm)
-*Alimentation minimum : 12V 2A
+# Technical details of the Helios Curing station <br />
++ Approximate power: 15W <br />
++ Turntable plate <br />
++ Upward airflow (two 3010 fans: 30x10mm) <br />
++ Minimum power supply: 12V 2A <br />
 
 <img src="https://github.com/user-attachments/assets/3f6423d7-d4d9-450d-b9a8-6193b93963fb" width="300" height="300">  
 <img src="https://github.com/user-attachments/assets/50a46456-7b4a-43e9-9ccf-e1cde922f779" width="300" height="300">  
-![HMI NEXTION 2 8](https://github.com/user-attachments/assets/b62ebbd0-4bbd-4777-8f54-6445464a4bbc)  
-![20240827_141044](https://github.com/user-attachments/assets/b46c0bfd-1798-4b8d-9a98-17c15633dd4a)  
-![20240827_141335](https://github.com/user-attachments/assets/13e24763-19fe-40f9-9043-8002fafb1b2b)  
-![20240827_142619](https://github.com/user-attachments/assets/e3448561-cc0e-461b-8573-42d5c2f66826)  
-![20240827_141352](https://github.com/user-attachments/assets/be84007c-4c01-42e8-a92f-ee82e3e881c3)  
+<img src="(https://github.com/user-attachments/assets/b62ebbd0-4bbd-4777-8f54-6445464a4bbc" height="300">  
+<img src="https://github.com/user-attachments/assets/b46c0bfd-1798-4b8d-9a98-17c15633dd4a" height="300">   
+<img src="https://github.com/user-attachments/assets/13e24763-19fe-40f9-9043-8002fafb1b2b" height="300">   
+<img src="https://github.com/user-attachments/assets/e3448561-cc0e-461b-8573-42d5c2f66826" height="300">
+<img src="https://github.com/user-attachments/assets/be84007c-4c01-42e8-a92f-ee82e3e881c3" height="300">
 
 
 
