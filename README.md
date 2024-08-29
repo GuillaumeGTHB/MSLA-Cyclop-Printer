@@ -12,10 +12,11 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 + Approximate price: $450 <br />
 + Power supply: 12V 8A <br />
 + → more details in the .pdf guide <br />
-<img src="https://github.com/user-attachments/assets/53ec7daf-cf2d-4e98-b424-542e2585f94f" height="250">
-<img src="https://github.com/user-attachments/assets/a0f92b43-b76a-41fa-93a0-9a5811a3f5d8" height="250">
-<img src="https://github.com/user-attachments/assets/8c0bea5d-ff4a-4f5c-84ea-1a8b501b7c64" height="250">
-<img src="https://github.com/user-attachments/assets/5917b8b9-ff56-4c93-b1d1-bcd5ddffee13" height="250">
+<img src="https://github.com/user-attachments/assets/53ec7daf-cf2d-4e98-b424-542e2585f94f" height="200">
+<img src="https://github.com/user-attachments/assets/a0f92b43-b76a-41fa-93a0-9a5811a3f5d8" height="200">
+<img src="https://github.com/user-attachments/assets/8c0bea5d-ff4a-4f5c-84ea-1a8b501b7c64" height="200">
+<img src="https://github.com/user-attachments/assets/5917b8b9-ff56-4c93-b1d1-bcd5ddffee13" height="200">
+
 # Technical details of the Helios Curing station <br />
 + Approximate power: 15W <br />
 + Turntable plate <br />
