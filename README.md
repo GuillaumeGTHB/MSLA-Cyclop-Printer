@@ -1,9 +1,15 @@
 # WORK IN PROGRESS !!! (29/08/24)
 ## Introduction
 **A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail !** <br />
-Here you will find all the files on my home resin printer (and its Helios curing station) ! <br />
+**Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
+Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
+<img src="https://github.com/user-attachments/assets/e25e3751-2530-490f-95a1-e939ee2248e4" height="200">
+<img src="https://github.com/user-attachments/assets/5cf03c4f-9522-401a-a9d8-465e7685c4e1" height="200">
 ## Technical details of the MSLA Cyclop v1.3 printer
++ Standalone printer (integrated slicer, just place an .stl file on a USB key) with Nextion 3.2" touch screen
++ Ultra-rigid structure in 2020 aluminum profiles
++ Ultra resolution axis ! Ball screw and two linear ball axes MGN12C
 + Electronics: Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + A4988 driver (NanoDLP firmware for the RPI3B+, GRBL for the Arduino)<br />
 + Screen: 2k, 5.5" 1440p x 2560p <br />
 + Resolution: 47.25µm (0.04725mm) <br />
