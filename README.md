@@ -1,8 +1,8 @@
 # WORK IN PROGRESS !!! (29/08/24)
 ## Introduction
+**A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail !** <br />
 Here you will find all the files on my home resin printer (and its Helios curing station) ! <br />
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
-**A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail !** <br />
 ## Technical details of the MSLA Cyclop v1.3 printer
 + Electronics: Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + A4988 driver (NanoDLP firmware for the RPI3B+, GRBL for the Arduino)<br />
 + Screen: 2k, 5.5" 1440p x 2560p <br />
@@ -21,6 +21,7 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 + Approximate power: 15W <br />
 + Turntable plate with adjustable timer <br />
 + Upward airflow (two 3010 fans: 30x10mm) <br />
++ Approximate price: $30 <br />
 + Minimum power supply: 12V 2A <br />
 + → more details in the .pdf guide <br />
 <img src="https://github.com/user-attachments/assets/a8a1f55d-ca56-4a80-a876-c9ba78984eb0" height="200">
