@@ -1,17 +1,17 @@
 # WORK IN PROGRESS !!!
 # Introduction
-Vous trouverez ici tous les fichiers sur mon imprimante résine maison (et sa station de curing) !  
-Les fichiers CAO (format .step) sont disponibles, le firmware GRBl adéquat ainsi que la version NanoDLP que j'ai utilisé.  
-_Un guide au format .pdf (langue anglaise, 64 pages pour la version 1.1) est inclus, il est à lire absolument, tout y expliqué en détail !_  
+Vous trouverez ici tous les fichiers sur mon imprimante résine maison (et sa station de curing) !<br />
+Les fichiers CAO (format .step) sont disponibles, le firmware GRBl adéquat ainsi que la version NanoDLP que j'ai utilisé.<br />
+**Un guide au format .pdf (langue anglaise, 64 pages pour la version 1.1) est inclus, il est à lire absolument, tout y expliqué en détail !** <br />
 # Détails techniques de l'imprimante MSLA Cyclop v1.3
-*Electronique : Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + driver A4988 (firmware NanoDLP pour le RPI3B+, GRBL pour l'Arduino)
-*Ecran : 2k, 5,5" 1440p x 2560p
-*Résolution : 47,25µm (0,04725mm)
-*Zone imprimable : 125x67x165mm
-*Puissance UV : 38W (réglable en PWM avec la commande M3 S1to1000)
-*Prix approximatif : 450$
-*Alimentation : 12V 8A
-*→ plus de détail dans le guide .pdf
++ Electronique : Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + driver A4988 (firmware NanoDLP pour le RPI3B+, GRBL pour l'Arduino)<br />
++ Ecran : 2k, 5,5" 1440p x 2560p <br />
++ Résolution : 47,25µm (0,04725mm) <br />
++ Zone imprimable : 125x67x165mm <br />
++ Puissance UV : 38W (réglable en PWM avec la commande M3 S1to1000) <br />
++ Prix approximatif : 450$ <br />
++ Alimentation : 12V 8A <br />
++ → plus de détail dans le guide .pdf <br />
 
 # Détails techniques de la station de Curing Helios 
 *Puissance approximative : 15W
