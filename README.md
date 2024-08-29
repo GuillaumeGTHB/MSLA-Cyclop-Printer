@@ -1,8 +1,8 @@
 # WORK IN PROGRESS !!!
-# Introduction
+#titre Introduction
 Vous trouverez ici tous les fichiers sur mon imprimante résine maison (et sa station de curing) !
 Les fichiers CAO (format .step) sont disponibles, le firmware GRBl adéquat ainsi que la version NanoDLP que j'ai utilisé.
-*Un guide au format .pdf (langue anglaise, 64 pages pour la version 1.1) est inclus, il est à lire absolument, tout y expliqué en détail !*
+_Un guide au format .pdf (langue anglaise, 64 pages pour la version 1.1) est inclus, il est à lire absolument, tout y expliqué en détail !_
 # Détails techniques de l'imprimante MSLA Cyclop v1.3
 Electronique : Raspberry Pi 3B+ / Arduino Uno + Shield CNC v3 + driver A4988 (firmware NanoDLP pour le RPI3B+, GRBL pour l'Arduino)
 Ecran : 2k, 5,5" 1440p x 2560p
