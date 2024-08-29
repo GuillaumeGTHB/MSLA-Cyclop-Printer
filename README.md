@@ -8,7 +8,7 @@ If you like my work, please support me and buy me a coffee, thank you! [paypal.m
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
 
-## Introduction
+## 1. Introduction
 + **Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
 + Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
@@ -19,7 +19,7 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 <img src="https://github.com/user-attachments/assets/9b24b785-bc67-4cf2-a9b0-55bd476916e7" height="200"> <br />
 </p>
 
-## Technical details of the MSLA Cyclop v1.3 printer <br />
+## 2. Technical details of the MSLA Cyclop v1.3 printer <br />
 + Standalone printer (integrated slicer, just place an .stl file on a USB key) with Nextion 3.2" touch screen
 + Ultra-rigid structure in 2020 aluminum profiles
 + Ultra resolution axis ! Ball screw and two linear ball axes MGN12C
@@ -38,7 +38,7 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 <img src="https://github.com/user-attachments/assets/5917b8b9-ff56-4c93-b1d1-bcd5ddffee13" height="200">
 </p>
 
-## Technical details of the Helios Curing station <br />
+## 3. Technical details of the Helios Curing station <br />
 + Approximate power: 15W <br />
 + Turntable plate with adjustable timer <br />
 + Upward airflow (two 3010 fans: 30x10mm) <br />
@@ -50,4 +50,15 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 <img src="https://github.com/user-attachments/assets/0387f0f3-5e7a-4226-9eaa-10f27f64a06d" height="200">
 <img src="https://github.com/user-attachments/assets/8142ecc2-d189-49be-bcdb-65848cd4500d" height="200">
 <img src="https://github.com/user-attachments/assets/843ade4d-63f7-4661-aa92-d4ba5940f2f0" height="200">
+</p>
+
+## 4. Pictures of my first prints
+<p align="center">
+<img src="https://github.com/user-attachments/assets/70746423-bef3-402d-8ceb-47101cd5b7f7" height="200">
+<img src="https://github.com/user-attachments/assets/1b9234ab-348c-43dd-a544-7aba78441b1b" height="200">
+<img src="https://github.com/user-attachments/assets/f74c0e93-50e7-4b22-a4e4-2b7280c5ca26" height="200">
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f4f12f99-195d-4b28-a079-71f9ce6a56ae" height="200">
+<img src="https://github.com/user-attachments/assets/67a4b0e2-e87b-48a4-a912-87b0bbee24ee" height="200">
 </p>
