@@ -75,5 +75,5 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 ## 5. Schematics
 ### A.Cyclop v1.3
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="200">
+<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="400">
 </p>
