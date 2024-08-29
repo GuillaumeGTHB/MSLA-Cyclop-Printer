@@ -22,14 +22,8 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 + Turntable plate <br />
 + Upward airflow (two 3010 fans: 30x10mm) <br />
 + Minimum power supply: 12V 2A <br />
-
-<img src="https://github.com/user-attachments/assets/3f6423d7-d4d9-450d-b9a8-6193b93963fb" width="300" height="300">  
-<img src="https://github.com/user-attachments/assets/50a46456-7b4a-43e9-9ccf-e1cde922f779" width="300" height="300">  
-<img src="(https://github.com/user-attachments/assets/b62ebbd0-4bbd-4777-8f54-6445464a4bbc" height="300">  
-<img src="https://github.com/user-attachments/assets/b46c0bfd-1798-4b8d-9a98-17c15633dd4a" height="300">   
-<img src="https://github.com/user-attachments/assets/13e24763-19fe-40f9-9043-8002fafb1b2b" height="300">   
-<img src="https://github.com/user-attachments/assets/e3448561-cc0e-461b-8573-42d5c2f66826" height="300">
-<img src="https://github.com/user-attachments/assets/be84007c-4c01-42e8-a92f-ee82e3e881c3" height="300">
-
-
+<img src="https://github.com/user-attachments/assets/a8a1f55d-ca56-4a80-a876-c9ba78984eb0" height="200">
+<img src="https://github.com/user-attachments/assets/0387f0f3-5e7a-4226-9eaa-10f27f64a06d" height="200">
+<img src="https://github.com/user-attachments/assets/8142ecc2-d189-49be-bcdb-65848cd4500d" height="200">
+<img src="https://github.com/user-attachments/assets/843ade4d-63f7-4661-aa92-d4ba5940f2f0" height="200">
 
