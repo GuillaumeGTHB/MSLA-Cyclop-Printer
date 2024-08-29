@@ -8,6 +8,12 @@ If you like my work, please support me and buy me a coffee, thank you! [paypal.m
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
 
+# MSLA Cyclop Printer !
+<p align="center">
+<img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
+<img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
+</p>
+
 ## 1. Introduction
 + **Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
 + Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
