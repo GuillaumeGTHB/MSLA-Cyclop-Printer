@@ -8,6 +8,7 @@ If you like my work, please support me and buy me a coffee, thank you! [paypal.m
 **2. Technical details of the MSLA Cyclop v1.3 printer** <br />
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
+**5. Schematics** <br />
 
 # MSLA Cyclop Printer !
 <p align="center">
@@ -69,4 +70,10 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f4f12f99-195d-4b28-a079-71f9ce6a56ae" height="200">
 <img src="https://github.com/user-attachments/assets/67a4b0e2-e87b-48a4-a912-87b0bbee24ee" height="200">
+</p>
+
+## 5. Schematics
+### A.Cyclop v1.3
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="200">
 </p>
