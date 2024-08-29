@@ -77,10 +77,10 @@ The CAD files (.step format) are available, the appropriate GRBl firmware as wel
 ## 5. Schematics
 ### A. Cyclop v1.3
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="600">
+<img src="https://github.com/user-attachments/assets/1831a42f-c823-4332-a965-91973952d14e" height="500">
 </p>
 
 ### B. Helios
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a6e83be7-2d55-465d-b2e3-fcb1e17669f9" height="600">
+<img src="https://github.com/user-attachments/assets/a6e83be7-2d55-465d-b2e3-fcb1e17669f9" height="500">
 </p>
