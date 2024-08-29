@@ -9,8 +9,8 @@ If you like my work, please support me and buy me a coffee, thank you! [paypal.m
 **3. Technical details of the Helios Curing station** <br />
 **4. Pictures of my first prints (print tests take a lot of time, they are not yet 100% optimal)** <br />
 **5. Schematics** <br />
-      A. Cyclop v1.3
-      B. Helios
+_ A. Cyclop v1.3
+_ B. Helios
 
 # MSLA Cyclop Printer !
 <p align="center">
