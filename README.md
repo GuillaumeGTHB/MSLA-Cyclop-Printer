@@ -2,7 +2,7 @@
 ## Introduction
 + **A guide in .pdf format (English language, 64 pages for version 1.1) is included, it is a must-read, everything is explained in detail !** <br />
 + **Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
-Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
++ Here you will find all the files and instructions on my homemade MSLA Cyclop v1.3 resin printer (and its Helios curing station) ! <br />
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
 <img src="https://github.com/user-attachments/assets/e25e3751-2530-490f-95a1-e939ee2248e4" height="300">
 <img src="https://github.com/user-attachments/assets/5cf03c4f-9522-401a-a9d8-465e7685c4e1" height="300">
