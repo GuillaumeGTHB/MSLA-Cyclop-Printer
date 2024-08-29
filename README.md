@@ -13,7 +13,8 @@ If you like my work, please support me and buy me a coffee, thank you! [paypal.m
 The CAD files (.step format) are available, the appropriate GRBl firmware as well as the NanoDLP version that I used. <br />
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e25e3751-2530-490f-95a1-e939ee2248e4" height="250">
-<img src="https://github.com/user-attachments/assets/5cf03c4f-9522-401a-a9d8-465e7685c4e1" height="250"> <br />
+<img src="https://github.com/user-attachments/assets/5cf03c4f-9522-401a-a9d8-465e7685c4e1" height="250"> 
+<img src="https://github.com/user-attachments/assets/9625eb58-81cc-498f-bc12-b86f50c8e287" height="250"> <br />
 </p>
 
 ## Technical details of the MSLA Cyclop v1.3 printer <br />
