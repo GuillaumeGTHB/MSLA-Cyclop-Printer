@@ -1,3 +1,10 @@
+# MSLA Cyclop Printer !
+<p align="center">
+<img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
+<img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
+<img src="https://github.com/user-attachments/assets/b77a59d2-0fb1-4acb-b26e-1639aca2ed38" height="250">
+</p>
+
 If you like my work, you can help me by buying me a coffee, thank you! *https://buymeacoffee.com/guillaumehy or
  [paypal.me/guillaumehaouy](https://www.paypal.com/paypalme/guillaumehaouy)* <br />
 *I should point out that I am a 20 year old student, it takes me a huge amount of time so don't be too harsh and impatient with me !* <br />
@@ -11,13 +18,6 @@ If you like my work, you can help me by buying me a coffee, thank you! *https://
 **5. Schematics**
 - A. Cyclop - 3D Printer
 - B. Helios - Curing Station
-
-# MSLA Cyclop Printer !
-<p align="center">
-<img src="https://github.com/user-attachments/assets/74617bea-9438-40a1-9b9b-2046781e071e" height="250">
-<img src="https://github.com/user-attachments/assets/457f03d9-dadc-47b4-896c-9f4e8908a603" height="250">
-<img src="https://github.com/user-attachments/assets/b77a59d2-0fb1-4acb-b26e-1639aca2ed38" height="250">
-</p>
 
 ## 1. Introduction
 + **Be careful! The resin severely attacks the printed plastic, as explained in the guide, you will need to apply a protective varnish on the tank as well as on the printing plate** <br />
